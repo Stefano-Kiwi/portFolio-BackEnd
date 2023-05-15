@@ -14,7 +14,7 @@
     <name>stefano</name>
     <description>Portfolio Web de Stefano Budon</description>
     <properties>
-        <java.version>20</java.version>
+        <java.version>17</java.version>
     </properties>
         
         
