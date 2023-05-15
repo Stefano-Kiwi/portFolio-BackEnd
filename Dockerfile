@@ -1,4 +1,4 @@
-FROM amazoncorretto:8
+FROM amazoncorretto:17
 MAINTAINER SCB
 COPY target/stefano-0.0.1-SNAPSHOT.jar stefano-app.jar
 ENTRYPOINT ["java","-jar","/stefano-app.jar"]  
